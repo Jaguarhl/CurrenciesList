@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currencies List</string>
+    <string name="label_currency_name">Currency</string>
+    <string name="label_currency_amount">Amount</string>
+    <string name="label_currency_value">Rate</string>
+    <string name="menu_item_refresh">Refresh</string>
+</resources>

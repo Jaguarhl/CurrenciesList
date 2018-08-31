@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Список валют</string>
+    <string name="label_currency_name">Название валюты</string>
+    <string name="label_currency_amount">Кол-во</string>
+    <string name="label_currency_value">Цена</string>
+    <string name="menu_item_refresh">Обновить</string>
+</resources>
